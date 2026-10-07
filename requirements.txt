@@ -12,3 +12,6 @@ pinecone
 sentence-transformers
 beautifulsoup4
 python-dotenv
+python-docx
+sentence-transformers
+langchain-huggingface
