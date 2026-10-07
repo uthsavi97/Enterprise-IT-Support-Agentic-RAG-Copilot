@@ -15,3 +15,9 @@ python-dotenv
 python-docx
 sentence-transformers
 langchain-huggingface
+pypdf
+fastapi
+uvicorn[standard]
+jinja2
+python-multipart
+pydantic-settings
