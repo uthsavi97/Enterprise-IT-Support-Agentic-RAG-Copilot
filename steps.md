@@ -1,6 +1,6 @@
-1. **`requirements.txt`** — Add all required libraries such as LangGraph, OpenAI, Pinecone, Tavily, FastAPI, document loaders, etc.
+1. **`requirements.txt`** — Add all required libraries such as LangGraph, Groq, Hugging Face sentence-transformer embeddings, Pinecone, Tavily, FastAPI, document loaders, etc.
 
-2. **`.env`** — Configure API keys, Pinecone index/namespace, OpenAI model, embedding model, and other environment settings.
+2. **`.env`** — Configure Groq, Pinecone index/namespace, local Hugging Face embedding model, and other environment settings.
 
 3. **`app/core/config.py`** — Load all `.env` configurations into the application using a centralized settings class.
 
